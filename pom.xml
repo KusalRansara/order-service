@@ -18,8 +18,8 @@
 
     <properties>
         <java.version>21</java.version>
-        <sonar.projectKey>YOUR_PROJECT_KEY</sonar.projectKey>
-        <sonar.organization>YOUR_ORG_KEY</sonar.organization>
+        <sonar.projectKey>KusalRansara_order-service</sonar.projectKey>
+        <sonar.organization>kusalorg</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
